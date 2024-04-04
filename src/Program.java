@@ -80,6 +80,7 @@ public class Program {
     public static void showAnimals(ArrayList<Animal> animals) {
         for (int i = 0; i < animals.size(); i++) {
             System.out.println(animals.get(i));
+            System.out.println(animals.get(i).getBirthday());
             System.out.println("Возраст: " + Animal.getAge(animals.get(i).birthday));
             System.out.println();
         }
