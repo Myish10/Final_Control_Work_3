@@ -30,7 +30,9 @@
 7. Установить и удалить deb-пакет с помощью dpkg.
    
    wget https://launchpad.net/ubuntu/+archive/primary/+files/wget_1.20.3-1ubuntu1_amd64.deb
+   
    sudo dpkg -i wget_1.20.3-1ubuntu1_amd64.deb
+   
    sudo dpkg -r wget
    
 9. Выложить историю команд в терминале ubuntu
