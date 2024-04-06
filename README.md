@@ -26,6 +26,7 @@
 5. Подключить дополнительный репозиторий MySQL. Установить любой пакет
    из этого репозитория.
    ![photo1712407773](https://github.com/Myish10/Final_Control_Work_3/assets/135239089/410a31f9-79c4-4140-9160-5a900d2d624f)
+   ![photo1712408306](https://github.com/Myish10/Final_Control_Work_3/assets/135239089/b9ac8f4d-d813-461f-bf28-8c4a3487ce20)
 
 7. Установить и удалить deb-пакет с помощью dpkg.
 8. Выложить историю команд в терминале ubuntu
